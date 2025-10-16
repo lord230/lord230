@@ -3,7 +3,6 @@
 I’m the kind of person who gets an idea at 2 AM and ends up coding it by 3.  
 Machine Learning, automation, and creative experiments — that’s my playground.
 
-Right now, I’m building small but powerful tools that make everyday things smarter, smoother, or just plain cooler.
 
 ---
 
